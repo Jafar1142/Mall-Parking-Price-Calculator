@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(12, 229, 229);
+  }
+  
+  .container {
+    text-align: center;
+    border: 1px solid black;
+    width: 530px;
+    background-color: rgb(136, 210, 228);
+  }
+  
+  button {
+    font-weight: 600;
+    transition:ease;
+    padding: 1rem;
+    width: 8rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    background-color: rgb(239, 205, 205);
+  }
+  
